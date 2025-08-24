@@ -1,0 +1,15 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mockx.in",
+        "sha256_cert_fingerprints": [
+          "FF:22:10:F6:8C:F7:F3:53:9B:1C:E4:06:FC:D1:BB:03:49:63:41:6F:AC:A5:85:7B:3F:6D:57:23:1C:AA:74:04"
+        ]
+      }
+    }
+  ]
